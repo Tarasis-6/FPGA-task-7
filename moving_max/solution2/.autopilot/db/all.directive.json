@@ -1,0 +1,23 @@
+[
+  {
+    "functionLabel": "",
+    "functionName": "moving_max",
+    "id": 0,
+    "ifcond": "",
+    "insert_position": "",
+    "label": "",
+    "pragma": {
+      "name": "TOP",
+      "option": [
+        {
+          "name": "name",
+          "value": "moving_max"
+        }
+      ]
+    },
+    "slx": false,
+    "sourceFile": "/home/taras/Yaroslav_Glek/project_6/moving_max/solution2/csynth.tcl",
+    "sourceLine": 16,
+    "success": true
+  }
+]

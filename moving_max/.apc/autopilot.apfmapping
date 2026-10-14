@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="moving_max.cpp" path="/home/taras/Yaroslav_Glek/project_6/moving_max.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="tb.cpp" path="/home/taras/Yaroslav_Glek/project_6/tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

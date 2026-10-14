@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog/>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="WARNING: [HLS 200-2053] The vitis_hls executable is deprecated. Consider using vitis-run --mode hls --tcl&#xA;Sourcing Tcl script '/home/taras/Yaroslav_Glek/project_6/moving_max/solution1/csynth.tcl'" projectName="moving_max" solutionName="solution1" date="2026-10-14T19:37:18.869+0200" type="Warning"/>
+      </synLog>
+      <simLog>
+        <logs message="WARNING: [XSIM 43-3431] One or more environment variables have been detected which affect the operation of the C compiler. These are typically not set in standard installations and are not tested by AMD, however they may be appropriate for your system, so the flow will attempt to continue.  If errors occur, try running xelab with the &quot;-mt off -v 1&quot; switches to see more information from the C compiler. The following environment variables have been detected:&#xA;    LIBRARY_PATH" projectName="moving_max" solutionName="solution2" date="2026-10-14T20:00:39.987+0200" type="Warning"/>
+        <logs message="WARNING: [HLS 200-2053] The vitis_hls executable is deprecated. Consider using vitis-run --mode hls --tcl&#xA;Sourcing Tcl script '/home/taras/Yaroslav_Glek/project_6/moving_max/solution2/cosim.tcl'" projectName="moving_max" solutionName="solution2" date="2026-10-14T20:00:36.013+0200" type="Warning"/>
+      </simLog>
+      <mgLog/>
+      <packageLog>
+        <logs message="WARNING: /tools/Xilinx/Vivado/2024.2/tps/lnx64/jre11.0.16_1 does not exist.&#xA;&#xA;&#xA;****** Vivado v2024.2.2 (64-bit)&#xA;  **** SW Build 6060944 on Thu Mar 06 19:10:09 MST 2025&#xA;  **** IP Build 6050500 on Thu Mar  6 23:33:39 MST 2025&#xA;  **** SharedData Build 6060542 on Thu Mar 06 10:31:07 MST 2025&#xA;  **** Start of session at: Wed Oct 14 21:01:22 2026&#xA;    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.&#xA;    ** Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.&#xA;&#xA;&#xA;source run_ippack.tcl -notrace" projectName="moving_max" solutionName="solution2" date="2026-10-14T20:01:24.037+0200" type="Warning"/>
+        <logs message="WARNING: [HLS 200-2053] The vitis_hls executable is deprecated. Consider using vitis-run --mode hls --tcl&#xA;Sourcing Tcl script '/home/taras/Yaroslav_Glek/project_6/moving_max/solution2/export.tcl'" projectName="moving_max" solutionName="solution2" date="2026-10-14T20:01:21.121+0200" type="Warning"/>
+      </packageLog>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

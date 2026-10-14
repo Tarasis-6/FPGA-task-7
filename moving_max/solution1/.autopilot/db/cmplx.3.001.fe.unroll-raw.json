@@ -1,0 +1,19 @@
+{
+  "0": {
+    "basicblocks": 15,
+    "calls": "",
+    "file": "moving_max.cpp",
+    "fileloc": 7,
+    "instructions": 56,
+    "loads": {
+      "L": 3,
+      "T": 1
+    },
+    "name": "moving_max",
+    "stores": {
+      "L": 3,
+      "T": 1
+    },
+    "total_instructions": 56
+  }
+}

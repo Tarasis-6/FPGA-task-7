@@ -1,0 +1,6 @@
+
+Family       : zynq
+Device       : xc7z010i
+Package      : -clg225
+Speed Grade  : -1L
+Clock Period : 10

@@ -1,0 +1,1 @@
+set ::AESL_AUTOSIM::gTopFileName /home/taras/Yaroslav_Glek/project_6/moving_max/solution2/./sim/autowrap/testbench/moving_max.cpp_pre.cpp.tb.cpp

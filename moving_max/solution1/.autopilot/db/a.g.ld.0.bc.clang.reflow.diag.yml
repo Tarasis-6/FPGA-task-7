@@ -1,0 +1,11 @@
+--- !Missed
+Pass:            inline
+Name:            NeverInline
+Function:        apatb_moving_max_ir
+Args:            
+  - Callee:          'moving_max(int*, int*)'
+    DebugLoc:        { File: moving_max.cpp, Line: 7, Column: 0 }
+  - String:          ' not inlined into '
+  - Caller:          apatb_moving_max_ir
+  - String:          ' because it should never be inlined (cost=never)'
+...

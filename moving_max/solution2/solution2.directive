@@ -1,0 +1,10 @@
+<AutoPilot:ProjectResources xmlns:AutoPilot="com.autoesl.autopilot.ui.directiveView">
+    <sourceFile name="">
+        <directive functionName="moving_max" label="" functionLabel="">
+            <pragma name="TOP">
+                <option name="name" value="moving_max"/>
+            </pragma>
+        </directive>
+    </sourceFile>
+</AutoPilot:ProjectResources>
+
